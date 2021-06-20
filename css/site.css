@@ -12,7 +12,7 @@ body{
 /* head */
 
 #head{
-    background-img: url('/images/background.png');
+    background-img: url('https://github.com/TuneOfCode/Demo-Hue-University-of-Sciences/images/background.png');
     width: 100%;
     height: 80%;
     color: white; 
